@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-#./start_tmux.sh IP_ADDRESS 10.0.0.8
+#./start_tmux.sh 10.0.0.8
 
 tmux kill-server # kills historic server
 
