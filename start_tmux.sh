@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 #./start_tmux.sh 10.0.0.8
-
+# Create TMUX MULTIPLE WINDOW
 tmux kill-server # kills historic server on start
 
 IP_ADDRESS=$1
